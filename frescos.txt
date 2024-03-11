@@ -1,11 +1,8 @@
 Lubina
 Pollo
 Cordero
-<<<<<<< HEAD
 Salmon
 Terner
 
-=======
 Ternera
 Jamon
->>>>>>> develop
