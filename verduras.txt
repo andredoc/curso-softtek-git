@@ -3,3 +3,4 @@ lechuga
 Ajo
 Puerro
 Espinaca
+Albahaca
