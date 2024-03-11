@@ -2,3 +2,4 @@ tomate
 lechuga
 Ajo
 Puerro
+Espinaca
